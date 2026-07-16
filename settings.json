@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Welegadum125.aternos.me",
-    "port": 17196,
-    "version": "",
+    "ip": "anomalygaming.aternos.me",
+    "port": 56257,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
